@@ -9,6 +9,11 @@
 - CUDA 11.3+ (推荐使用GPU加速)
 - 其他依赖见requirements.txt
 ```
+# 数据集
+```text
+CIC-IDS-2018：https://www.unb.ca/cic/datasets/ids-2018.html
+CREME：https://github.com/buihuukhoi/CREME
+```
 # 代码结构
 ```text
 config.py: 全局配置参数，包括数据路径、模型参数和训练参数
